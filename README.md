@@ -8,6 +8,8 @@ This repo compares k‑nearest neighbors performance before and after feature se
 - `*.csv`: source data.
 - `Accuracy Metrics.png`: saved chart from one of the runs.
 
+![Accuracy Metrics chart](Accuracy%20Metrics.png)
+
 ### Quick start
 1. Create an environment with Python 3.8+.
 2. Install dependencies: `pip install numpy pandas seaborn matplotlib scikit-learn mlxtend`.
